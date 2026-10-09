@@ -1,8 +1,8 @@
 # import os
 
 # --- CONFIGURATION ---
-TARGET_URL = "http://woodslandingenergy.com/"
-HASH_FILE = "site_hash.txt"
+# TARGET_URL = "http://woodslandingenergy.com/"
+# HASH_FILE = "site_hash.txt"
 
 # Reads from environment variables set by GitHub Secrets
 # DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
